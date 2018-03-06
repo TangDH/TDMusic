@@ -1,0 +1,577 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidThreadTest/app/src/main/java/com/example/tangdh/androidthreadtest/MainActivity.java" timestamp="1518838111551">
+        <mark key="[" line="41" column="51" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/LitePalTest/app/src/main/java/com/example/tangdh/litepaltest/Category.java" timestamp="1518313522869">
+        <mark key="[" line="6" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1520083939209">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NetworkTest/app/build.gradle" timestamp="1518666959033">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/src/main/res/layout/news_content_frag.xml" timestamp="1517928045396">
+        <mark key="[" line="2" column="77" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ContactsTest/app/src/main/java/com/example/tangdh/contactstest/MainActivity.java" timestamp="1518440122506">
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/BroadcastBestPractice/app/src/main/java/com/example/tangdh/broadcastbestpractice/LoginActivity.java" timestamp="1518251941876">
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="45" column="35" />
+        <mark key="." line="45" column="35" />
+      </file>
+      <file name="$USER_HOME$/booksource/chapter8/CameraAlbumTest2/app/src/main/res/xml/file_paths.xml" timestamp="1518523590382">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/BroadcastBestPractice/app/src/main/java/com/example/tangdh/broadcastbestpractice/MainActivity.java" timestamp="1518178637085">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NotificationTest/app/src/main/AndroidManifest.xml" timestamp="1518518168527">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/SearchActivity.java" timestamp="1520345696033">
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="74" column="20" />
+        <mark key="." line="74" column="20" />
+        <mark key="^" line="82" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NetworkTest/app/src/main/res/layout/activity_main.xml" timestamp="1518661021332">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/BroadcastBestPractice/app/src/main/java/com/example/tangdh/broadcastbestpractice/ActivityCollector.java" timestamp="1518177056415">
+        <mark key="[" line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/booksource/chapter8/CameraAlbumTest2/app/src/main/java/com/example/tangdh/cameraalbumtest/MainActivity.java" timestamp="1518525877925">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ContactsTest/app/src/main/AndroidManifest.xml" timestamp="1518440995003">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/WebViewTest/app/src/main/res/layout/activity_main.xml" timestamp="1518660663036">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/src/main/res/layout/news_title_frag.xml" timestamp="1517929389507">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/FragmentTest/app/src/main/res/layout/another_right_fragment.xml" timestamp="1517925854751">
+        <mark key="[" line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/booksource/chapter8/CameraAlbumTest2/app/src/main/res/layout/activity_main.xml" timestamp="1518523861978">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/FragmentTest/app/src/main/java/com/example/tangdh/fragmenttest/RightFragment.java" timestamp="1517572468896">
+        <mark key="[" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/testapp/app/src/main/java/com/example/tangdh/testapp/User.java" timestamp="1519910761860">
+        <mark key="[" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/BroadTest/app/src/main/java/com/example/tangdh/broadtest/MyReceiver.java" timestamp="1518172770214">
+        <mark key="[" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_musicplayer.xml" timestamp="1520341356180">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/ListViewTest/app/src/main/java/com/example/tangdh/listviewtest/Fruit.java" timestamp="1517489639922">
+        <mark key="[" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ListViewTest/app/src/main/res/layout/fruit_item.xml" timestamp="1516887701973">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/MainActivity.java" timestamp="1519740620275">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/LitePalTest/app/build.gradle" timestamp="1518312633656">
+        <mark key="[" line="25" column="69" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ActivityTest/app/src/main/AndroidManifest.xml" timestamp="1516712578426">
+        <mark key="[" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/LitePalTest/app/src/main/AndroidManifest.xml" timestamp="1518312833066">
+        <mark key="[" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ListViewTest/app/src/main/java/com/example/tangdh/listviewtest/Fruit.java" timestamp="1516887617708">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/RecyclerView/app/src/main/res/layout/activity_main.xml" timestamp="1517493405995">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/LitePalTest/app/src/main/assets/litepal.xml" timestamp="1518312745954">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/LitePalTest/app/src/main/res/layout/activity_main.xml" timestamp="1518312920092">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/FragmentTest/app/src/main/java/com/example/tangdh/fragmenttest/LeftFragment.java" timestamp="1517572334331">
+        <mark key="[" line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RunTimePermissionTest/app/src/main/java/com/example/tangdh/runtimepermissiontest/MainActivity.java" timestamp="1518439472695">
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="19" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/entity/Music.java" timestamp="1520338976232">
+        <mark key="[" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DatabaseTest/app/src/main/java/com/example/tangdh/databasetest/MyDatabaseHelper.java" timestamp="1518442621086">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DatabaseTest/app/src/main/AndroidManifest.xml" timestamp="1518444675939">
+        <mark key="[" line="21" column="45" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/src/main/res/layout/news_content.xml" timestamp="1517928782472">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/UIWidgetTest/app/build.gradle" timestamp="1516803659631">
+        <mark key="[" line="24" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ListViewTest/app/src/main/java/com/example/tangdh/listviewtest/FruitAdapter.java" timestamp="1516888262122">
+        <mark key="[" line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/FragmentTest/app/src/main/res/layout/left_fragment.xml" timestamp="1517571913881">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_main.xml" timestamp="1520083488554">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/WebViewTest/app/src/main/java/com/example/tangdh/webviewtest/MainActivity.java" timestamp="1518660703540">
+        <mark key="[" line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/Temperature/app/src/main/java/com/example/tangdh/temperature/ConverterUtil.java" timestamp="1519908483113">
+        <mark key="[" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/build.gradle" timestamp="1517927446470">
+        <mark key="[" line="24" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/UICustomViews/app/src/main/java/com/example/tangdh/uicustomviews/MainActivity.java" timestamp="1516885779763">
+        <mark key="[" line="16" column="47" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1517930247151">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/testapp/app/src/main/java/com/example/tangdh/testapp/UserOverviewActivity.java" timestamp="1519911954003">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+      </file>
+      <file name="$USER_HOME$/testapp/app/src/main/AndroidManifest.xml" timestamp="1519911771163">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/src/main/java/com/example/tangdh/fragmentbestpractice/NewsTitleFragment.java" timestamp="1517932151341">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ActivityTest/app/src/main/java/com/example/tangdh/activitytest/ActivityCollector.java" timestamp="1516713933089">
+        <mark key="[" line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_navigationbar.xml" timestamp="1520082742177">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/FragmentTest/app/src/main/java/com/example/tangdh/fragmenttest/AnotherRightFragment.java" timestamp="1517926007728">
+        <mark key="[" line="13" column="52" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RunTimePermissionTest/app/src/main/res/layout/activity_main.xml" timestamp="1518438309930">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/SearchButtonActivity.java" timestamp="1520083712669">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/webhttp/GetMusicUrl.java" timestamp="1520339269023">
+        <mark key="[" line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/src/main/java/com/example/tangdh/fragmentbestpractice/NewsContentActivity.java" timestamp="1517928928412">
+        <mark key="[" line="18" column="46" />
+      </file>
+      <file name="$USER_HOME$/Temperature/app/src/main/res/values/strings.xml" timestamp="1519907474061">
+        <mark key="[" line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/RecyclerView/app/src/main/java/com/example/tangdh/recyclerview/FruitAdapter.java" timestamp="1517497013545">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NotificationTest/app/src/main/res/layout/notification_layout.xml" timestamp="1518520211380">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ProviderTest/app/src/main/java/com/example/tangdh/providertest/ContentProvider.java" timestamp="1518441515470">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/src/main/java/com/example/tangdh/fragmentbestpractice/News.java" timestamp="1517927512896">
+        <mark key="[" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/BroadcastTest2/app/src/main/java/com/example/tangdh/broadcasttest2/AnotherBroadcast.java" timestamp="1518173367829">
+        <mark key="[" line="11" column="78" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ServiceTest/app/src/main/java/com/example/tangdh/servicetest/MainActivity.java" timestamp="1518839543576">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="23" />
+        <mark key="^" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ProviderTest2/app/src/main/java/com/example/tangdh/providertest/MainActivity.java" timestamp="1518444839005">
+        <mark key="[" line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NetworkTest/app/src/main/java/com/example/tangdh/networktest/ContentHandler.java" timestamp="1518666028844">
+        <mark key="[" line="49" column="72" />
+        <mark key="]" line="49" column="51" />
+        <mark key="^" line="49" column="51" />
+        <mark key="." line="49" column="51" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NetworkTest/app/src/main/AndroidManifest.xml" timestamp="1518661788382">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/ListViewTest/app/src/main/res/layout/activity_main.xml" timestamp="1517487927539">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/LitePalTest/app/src/main/java/com/example/tangdh/litepaltest/Book.java" timestamp="1518312970219">
+        <mark key="[" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/BroadTest/app/src/main/java/com/example/tangdh/broadtest/MainActivity.java" timestamp="1518174812059">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="8" />
+        <mark key="." line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_search.xml" timestamp="1520084501492">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/RecyclerView/app/build.gradle" timestamp="1517493286695">
+        <mark key="[" line="23" column="75" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/AndroidManifest.xml" timestamp="1520345242924">
+        <mark key="[" line="18" column="60" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/MusicActivity.java" timestamp="1520346004239">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="74" column="7" />
+        <mark key="^" line="74" column="7" />
+        <mark key="." line="74" column="7" />
+      </file>
+      <file name="$USER_HOME$/FragmentBestPractice/app/src/main/java/com/example/tangdh/fragmentbestpractice/NewsContentFragment.java" timestamp="1517928239423">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/build.gradle" timestamp="1520338870129">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DatabaseTest/app/src/main/java/com/example/tangdh/databasetest/MainActivity.java" timestamp="1518253842650">
+        <mark key="[" line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DatabaseTest/app/src/main/res/layout/activity_main.xml" timestamp="1518444807531">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ListViewTest/app/src/main/java/com/example/tangdh/listviewtest/MainActivity.java" timestamp="1516887184525">
+        <mark key="[" line="10" column="53" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ActivityLifeCycleTest/app/src/main/AndroidManifest.xml" timestamp="1516711216149">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/BroadTest/app/src/main/AndroidManifest.xml" timestamp="1518174795090">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ServiceTest/app/src/main/java/com/example/tangdh/servicetest/MyService.java" timestamp="1518840264176">
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/BroadTest/app/src/main/java/com/example/tangdh/broadtest/BootCompleteReceiver.java" timestamp="1518170200873">
+        <mark key="[" line="10" column="59" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/TMusic/app/src/main/res/layout/activity_main.xml" timestamp="1519658068573">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/webhttp/HttpCallbackListener.java" timestamp="1520339153609">
+        <mark key="[" line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/testapp/app/src/main/res/layout/activity_user_overview.xml" timestamp="1519911759368">
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520341180892">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/op.app.android/app/src/main/res/values/styles.xml" timestamp="1517034423593">
+        <mark key="[" line="244" column="20" />
+        <mark key="]" line="244" column="20" />
+        <mark key="." line="244" column="20" />
+      </file>
+      <file name="$USER_HOME$/booksource/chapter8/CameraAlbumTest2/app/src/main/AndroidManifest.xml" timestamp="1518523201034">
+        <mark key="[" line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/BroadcastBestPractice/app/src/main/res/layout/activity_main.xml" timestamp="1518178327113">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ServiceTest/app/src/main/res/layout/activity_main.xml" timestamp="1518839299249">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/UICustomViews/app/src/main/java/com/example/tangdh/uicustomviews/TitleLayout.java" timestamp="1516885988322">
+        <mark key="[" line="20" column="66" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/NetworkTest/app/src/main/java/com/example/tangdh/networktest/App.java" timestamp="1518667076259">
+        <mark key="[" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/DatabaseTest/app/src/main/java/com/example/tangdh/databasetest/DatabaseProvider.java" timestamp="1518444499032">
+        <mark key="[" line="60" column="36" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/WebViewTest/app/src/main/AndroidManifest.xml" timestamp="1518660828440">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/RecyclerView/app/build.gradle" timestamp="1516889047038">
+        <mark key="[" line="23" column="75" />
+      </file>
+      <file name="$USER_HOME$/op.app.android/build.gradle" timestamp="1516984035205">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidThreadTest/app/src/main/res/layout/activity_main.xml" timestamp="1518837614248">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/Temperature/app/src/main/java/com/example/tangdh/temperature/MainActivity.java" timestamp="1519909393032">
+        <mark key="[" line="37" column="87" />
+        <mark key="]" line="37" column="32" />
+        <mark key="." line="37" column="32" />
+        <mark key="^" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/remusic/app/src/main/java/com/wm/remusic/activity/LocalSearchActivity.java" timestamp="1519832485052">
+        <mark key="[" line="45" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ActivityLifeCycleTest/app/src/main/java/com/example/tangdh/activitylifecycletest/DialogActivity.java" timestamp="1516711608978">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1520340927646">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="42" column="16" filename="$USER_HOME$/AndroidStudioProjects/ActivityTest/app/src/main/java/com/example/tangdh/activitytest/FirstActivity.java" />
+      <jump line="1" column="12" filename="$USER_HOME$/AndroidStudioProjects/UIWidgetTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="15" column="2" filename="$USER_HOME$/AndroidStudioProjects/UIWidgetTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="1" column="1" filename="$USER_HOME$/AndroidStudioProjects/ListViewTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="12" column="25" filename="$USER_HOME$/op.app.android/app/build.gradle" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/UIBestPractice/app/build.gradle" />
+      <jump line="1" column="13" filename="$USER_HOME$/UIBestPractice/app/src/main/res/layout/activity_main.xml" />
+      <jump line="7" column="3" filename="$USER_HOME$/UIBestPractice/app/src/main/res/layout/msg_item.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/FragmentTest/app/src/main/res/layout/left_fragment.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/FragmentTest/app/src/main/res/layout/right_fragment.xml" />
+      <jump line="5" column="3" filename="$USER_HOME$/FragmentBestPractice/app/src/main/res/layout/activity_main.xml" />
+      <jump line="1" column="13" filename="$USER_HOME$/BroadTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="4" column="4" filename="$USER_HOME$/BroadTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="13" column="4" filename="$USER_HOME$/BroadcastBestPractice/app/src/main/res/layout/activity_login.xml" />
+      <jump line="347" column="0" filename="$USER_HOME$/BroadcastBestPractice/app/src/main/java/com/example/tangdh/broadcastbestpractice/LoginActivity.java" />
+      <jump line="1" column="1" filename="$USER_HOME$/BroadcastBestPractice/app/src/main/res/layout/activity_main.xml" />
+      <jump line="10" column="0" filename="$USER_HOME$/BroadcastBestPractice/app/src/main/res/layout/activity_main.xml" />
+      <jump line="75" column="20" filename="$USER_HOME$/AndroidStudioProjects/LitePalTest/app/src/main/java/com/example/tangdh/litepaltest/MainActivity.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/AndroidStudioProjects/LitePalTest/app/src/main/java/com/example/tangdh/litepaltest/MainActivity.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/AndroidStudioProjects/RunTimePermissionTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="8" column="4" filename="$USER_HOME$/AndroidStudioProjects/ContactsTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="63" column="82" filename="$USER_HOME$/AndroidStudioProjects/ProviderTest/app/src/main/java/com/example/tangdh/providertest/MyProvider.java" />
+      <jump line="59" column="16" filename="$USER_HOME$/AndroidStudioProjects/ProviderTest/app/src/main/java/com/example/tangdh/providertest/MyProvider.java" />
+      <jump line="1" column="43" filename="$USER_HOME$/AndroidStudioProjects/NotificationTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="8" column="3" filename="$USER_HOME$/AndroidStudioProjects/NotificationTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="82" column="46" filename="$USER_HOME$/AndroidStudioProjects/NetworkTest/app/src/main/java/com/example/tangdh/networktest/MainActivity.java" />
+      <jump line="1" column="13" filename="$USER_HOME$/AndroidStudioProjects/ServiceTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="16" column="14" filename="$USER_HOME$/AndroidStudioProjects/ServiceTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="5" column="0" filename="$USER_HOME$/AndroidStudioProjects/ServiceTest/app/src/main/res/layout/activity_main.xml" />
+      <jump line="4" column="4" filename="$USER_HOME$/Temperature/app/src/main/res/layout/activity_main.xml" />
+      <jump line="8" column="3" filename="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_main.xml" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>private void runOnUiThread() {
+                    }</text>
+      </register>
+      <register name="-" type="4">
+        <text>MainActivity</text>
+      </register>
+      <register name="/" type="4">
+        <text>tools</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCJpZDoiK2lkKTs=</text>
+      </register>
+      <register name="1" type="4">
+        <text>private void runOnUiThread() {
+                    }</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvblF1ZXJ5VGV4dFN1Ym1pdChTdHJpbmcgcXVlcnkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxCdXR0b24+PC9CdXR0b24+Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IG1TZWFyY2hWaWV3LnNldE9uUXVlcnlUZXh0Q2hhbmdlKG5ldyBWaWV3Lk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2KSB7CiAgICAgICAgICAgICAgICBHZXRNdXNpY1VybC5zZW5kT2tIdHRwUmVxdWVzdCgiaHR0cDovLzE3Mi4yMC4xOC4xNzcvIiwgbmV3IG9raHR0cDMuQ2FsbGJhY2soKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25GYWlsdXJlKENhbGwgY2FsbCwgSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBMb2cuZCgiR2V0TXVzaWNFcnJvciIsIFN0cmluZy52YWx1ZU9mKGUpKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVzcG9uc2UoQ2FsbCBjYWxsLCBSZXNwb25zZSByZXNwb25zZSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHJlc3BvbnNlRGF0YSA9IHJlc3BvbnNlLmJvZHkoKS5zdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgR3NvbiBnc29uID0gbmV3IEdzb24oKTsKICAgICAgICAgICAgICAgICAgICAgICAgTXVzaWMgbXVzaWMgPSBnc29uLmZyb21Kc29uKHJlc3BvbnNlRGF0YSxNdXNpYy5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnMK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IG1TZWFyY2hWaWV3LnNldE9uUXVlcnlUZXh0TGlzdGVuZXIobmV3IFNlYXJjaFZpZXcuT25RdWVyeVRleHRMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIG9uUXVlcnlUZXh0U3VibWl0KFN0cmluZyBxdWVyeSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgLypUT0RPCiAgICAgICAgICAgICAgICAqIOaQnOe0oumfs+S5kAogICAgICAgICAgICAgICAgKgogICAgICAgICAgICAgICAgKgogICAgICAgICAgICAgICAgKiAqLwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25RdWVyeVRleHRDaGFuZ2UoU3RyaW5nIG5ld1RleHQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEBOdWxsYWJsZSBCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKSAK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>tools</last-search>
+      <last-offset />
+      <last-pattern>tools</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>&quot;</entry>
+        <entry>com.an</entry>
+        <entry>tools</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
