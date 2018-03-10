@@ -334,6 +334,12 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="16" column="3" />
       </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/res/layout/component_navigationbar.xml" timestamp="1520690566967">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ListViewTest/app/src/main/java/com/example/tangdh/listviewtest/MainActivity.java" timestamp="1516887184525">
         <mark key="[" line="10" column="53" />
       </file>
@@ -474,11 +480,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private void runOnUiThread() {
-                    }</text>
+        <text>match_parent</text>
       </register>
       <register name="-" type="4">
-        <text>MainActivity</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>tools</text>
