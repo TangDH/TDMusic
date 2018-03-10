@@ -42,11 +42,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/NotificationTest/app/src/main/AndroidManifest.xml" timestamp="1518518168527">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/SearchActivity.java" timestamp="1520345696033">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="20" />
-        <mark key="." line="74" column="20" />
-        <mark key="^" line="82" column="15" />
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/SearchActivity.java" timestamp="1520695033080">
+        <mark key="[" line="44" column="67" />
+        <mark key="]" line="75" column="20" />
+        <mark key="." line="75" column="20" />
+        <mark key="^" line="83" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NetworkTest/app/src/main/res/layout/activity_main.xml" timestamp="1518661021332">
         <mark key="[" line="9" column="4" />
@@ -57,6 +57,9 @@
       <file name="$USER_HOME$/BroadcastBestPractice/app/src/main/java/com/example/tangdh/broadcastbestpractice/ActivityCollector.java" timestamp="1518177056415">
         <mark key="[" line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/remusic/app/src/main/res/values/colors.xml" timestamp="1520693873807">
+        <mark key="[" line="325" column="0" />
+      </file>
       <file name="$USER_HOME$/booksource/chapter8/CameraAlbumTest2/app/src/main/java/com/example/tangdh/cameraalbumtest/MainActivity.java" timestamp="1518525877925">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="70" column="0" />
@@ -65,6 +68,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ContactsTest/app/src/main/AndroidManifest.xml" timestamp="1518440995003">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/remusic/app/src/main/res/layout/activity.xml" timestamp="1520692512230" />
       <file name="$USER_HOME$/AndroidStudioProjects/WebViewTest/app/src/main/res/layout/activity_main.xml" timestamp="1518660663036">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -147,6 +151,7 @@
         <mark key="." line="56" column="20" />
         <mark key="^" line="56" column="19" />
       </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/res/drawable-xxhdpi/recommend_daily.xml" timestamp="1520693951070" />
       <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/entity/Music.java" timestamp="1520338976232">
         <mark key="[" line="6" column="20" />
       </file>
@@ -174,12 +179,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_main.xml" timestamp="1520083488554">
-        <mark key="'" line="8" column="3" />
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/WebViewTest/app/src/main/java/com/example/tangdh/webviewtest/MainActivity.java" timestamp="1518660703540">
         <mark key="[" line="12" column="47" />
       </file>
@@ -189,10 +188,11 @@
       <file name="$USER_HOME$/FragmentBestPractice/app/build.gradle" timestamp="1517927446470">
         <mark key="[" line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/TDMusic/app/src/main/res/values/colors.xml" timestamp="1520691106074">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/TDMusic/app/src/main/res/values/colors.xml" timestamp="1520693853154">
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="330" column="0" />
+        <mark key="." line="330" column="0" />
+        <mark key="^" line="348" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/UICustomViews/app/src/main/java/com/example/tangdh/uicustomviews/MainActivity.java" timestamp="1516885779763">
         <mark key="[" line="16" column="47" />
@@ -339,10 +339,10 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/TDMusic/app/src/main/res/layout/component_navigationbar.xml" timestamp="1520691807201">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/TDMusic/app/src/main/res/layout/component_navigationbar.xml" timestamp="1520694268604">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ListViewTest/app/src/main/java/com/example/tangdh/listviewtest/MainActivity.java" timestamp="1516887184525">
         <mark key="[" line="10" column="53" />
@@ -436,6 +436,11 @@
         <mark key="." line="37" column="32" />
         <mark key="^" line="37" column="32" />
       </file>
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/Navigation_component.java" timestamp="1520694250148">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/remusic/app/src/main/java/com/wm/remusic/activity/LocalSearchActivity.java" timestamp="1519832485052">
         <mark key="[" line="45" column="31" />
       </file>
@@ -483,8 +488,8 @@
       <jump line="8" column="3" filename="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL20K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PCEtLTxJbWFnZUJ1dHRvbi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL25hdmlnYXRpb25fbXVzaWMiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvc2VhcmNoIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIgLz4tLT4=</text>
       </register>
       <register name="-" type="4">
         <text>match_parent</text>
@@ -495,33 +500,38 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCJpZDoiK2lkKTs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL20K</text>
+      <register name="1" type="4">
+        <text encoding="base64">PCEtLTxJbWFnZUJ1dHRvbi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL25hdmlnYXRpb25fbXVzaWMiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvc2VhcmNoIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIgLz4tLT4=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHJlc291cmNlcz4KICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50Ij4jRkY0MDgxPC9jb2xvcj4KPC9yZXNvdXJjZXM+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL0ltYWdlQnV0dG9uIFNlYXJjaEJ1dHRvbiA9IChJbWFnZUJ1dHRvbikgZmluZFZpZXdCeUlkKFIuaWQubmF2aWdhdGlvbl9tdXNpYyk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>private void runOnUiThread() {
-                    }</text>
+        <text>//        SearchButton.setOnClickListener(new OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent = new Intent(context,SearchActivity.class);
+//                context.startActivity(intent);
+//            }
+//        });</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBvblF1ZXJ5VGV4dFN1Ym1pdChTdHJpbmcgcXVlcnkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJwdXJwbGUiPiM2NzNBQjc8L2NvbG9yPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24+PC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJibHVlIj4jMDAwMGZmPC9jb2xvcj4gPCEtLSDok53oibIgLS0+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IG1TZWFyY2hWaWV3LnNldE9uUXVlcnlUZXh0Q2hhbmdlKG5ldyBWaWV3Lk9uQ2xpY2tMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2KSB7CiAgICAgICAgICAgICAgICBHZXRNdXNpY1VybC5zZW5kT2tIdHRwUmVxdWVzdCgiaHR0cDovLzE3Mi4yMC4xOC4xNzcvIiwgbmV3IG9raHR0cDMuQ2FsbGJhY2soKSB7CiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25GYWlsdXJlKENhbGwgY2FsbCwgSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBMb2cuZCgiR2V0TXVzaWNFcnJvciIsIFN0cmluZy52YWx1ZU9mKGUpKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uUmVzcG9uc2UoQ2FsbCBjYWxsLCBSZXNwb25zZSByZXNwb25zZSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHJlc3BvbnNlRGF0YSA9IHJlc3BvbnNlLmJvZHkoKS5zdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgR3NvbiBnc29uID0gbmV3IEdzb24oKTsKICAgICAgICAgICAgICAgICAgICAgICAgTXVzaWMgbXVzaWMgPSBnc29uLmZyb21Kc29uKHJlc3BvbnNlRGF0YSxNdXNpYy5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJncmVlbiI+IzAwODAwMDwvY29sb3I+IDwhLS0g57u/6ImyIC0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnMK</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJwaW5rIj4jZmZjMGNiPC9jb2xvcj4gPCEtLSDnsonnuqLoibIgLS0+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IG1TZWFyY2hWaWV3LnNldE9uUXVlcnlUZXh0TGlzdGVuZXIobmV3IFNlYXJjaFZpZXcuT25RdWVyeVRleHRMaXN0ZW5lcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIG9uUXVlcnlUZXh0U3VibWl0KFN0cmluZyBxdWVyeSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgLypUT0RPCiAgICAgICAgICAgICAgICAqIOaQnOe0oumfs+S5kAogICAgICAgICAgICAgICAgKgogICAgICAgICAgICAgICAgKgogICAgICAgICAgICAgICAgKiAqLwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25RdWVyeVRleHRDaGFuZ2UoU3RyaW5nIG5ld1RleHQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I2ZmZmZmZjwvY29sb3I+IDwhLS0g55m96ImyIC0tPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJyZWQiPiNGNDQzMzY8L2NvbG9yPgo=</text>
       </register>
     </registers>
     <search>
@@ -580,6 +590,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
