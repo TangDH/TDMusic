@@ -42,11 +42,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/NotificationTest/app/src/main/AndroidManifest.xml" timestamp="1518518168527">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/SearchActivity.java" timestamp="1520695033080">
-        <mark key="[" line="44" column="67" />
-        <mark key="]" line="75" column="20" />
-        <mark key="." line="75" column="20" />
-        <mark key="^" line="83" column="15" />
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/SearchActivity.java" timestamp="1521216168052">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/NetworkTest/app/src/main/res/layout/activity_main.xml" timestamp="1518661021332">
         <mark key="[" line="9" column="4" />
@@ -68,7 +67,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ContactsTest/app/src/main/AndroidManifest.xml" timestamp="1518440995003">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/remusic/app/src/main/res/layout/activity.xml" timestamp="1520692512230" />
       <file name="$USER_HOME$/AndroidStudioProjects/WebViewTest/app/src/main/res/layout/activity_main.xml" timestamp="1518660663036">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
@@ -109,7 +107,7 @@
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/MainActivity.java" timestamp="1519740620275">
+      <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/MainActivity.java" timestamp="1521216084632">
         <mark key="[" line="14" column="47" />
         <mark key="]" line="14" column="45" />
         <mark key="." line="14" column="45" />
@@ -151,7 +149,6 @@
         <mark key="." line="56" column="20" />
         <mark key="^" line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/TDMusic/app/src/main/res/drawable-xxhdpi/recommend_daily.xml" timestamp="1520693951070" />
       <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/entity/Music.java" timestamp="1520338976232">
         <mark key="[" line="6" column="20" />
       </file>
@@ -488,11 +485,11 @@
       <jump line="8" column="3" filename="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_main.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLTxJbWFnZUJ1dHRvbi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL25hdmlnYXRpb25fbXVzaWMiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvc2VhcmNoIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIgLz4tLT4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>tools</text>
@@ -500,38 +497,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCJpZDoiK2lkKTs=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PCEtLTxJbWFnZUJ1dHRvbi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL25hdmlnYXRpb25fbXVzaWMiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CiAgICAgICAgPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvc2VhcmNoIi0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRSaWdodD0idHJ1ZSIgLz4tLT4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ltYWdlQnV0dG9uIFNlYXJjaEJ1dHRvbiA9IChJbWFnZUJ1dHRvbikgZmluZFZpZXdCeUlkKFIuaWQubmF2aWdhdGlvbl9tdXNpYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>//        SearchButton.setOnClickListener(new OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent intent = new Intent(context,SearchActivity.class);
-//                context.startActivity(intent);
-//            }
-//        });</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJwdXJwbGUiPiM2NzNBQjc8L2NvbG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdHkoaW50ZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJibHVlIj4jMDAwMGZmPC9jb2xvcj4gPCEtLSDok53oibIgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5wdXRFeHRyYSgiTXVzaWNVcmwiLG11c2ljLmdldFVybCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJncmVlbiI+IzAwODAwMDwvY29sb3I+IDwhLS0g57u/6ImyIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVudC5hZGRDYXRlZ29yeSgiY29tLmV4YW1wbGUuVERNdXNpYy5jYXRlZ29yeSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJwaW5rIj4jZmZjMGNiPC9jb2xvcj4gPCEtLSDnsonnuqLoibIgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KCJURE11c2ljLmFjdGlvbiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I2ZmZmZmZjwvY29sb3I+IDwhLS0g55m96ImyIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJyZWQiPiNGNDQzMzY8L2NvbG9yPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
     </registers>
     <search>
