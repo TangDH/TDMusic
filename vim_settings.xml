@@ -326,8 +326,11 @@
       <file name="$USER_HOME$/TDMusic/app/src/main/AndroidManifest.xml" timestamp="1520345242924">
         <mark key="[" line="18" column="60" />
       </file>
-      <file name="$USER_HOME$/myvoilion/app/build.gradle" timestamp="1521950176394">
-        <mark key="[" line="20" column="14" />
+      <file name="$USER_HOME$/myvoilion/app/build.gradle" timestamp="1521951208283">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/TDMusic/app/src/main/java/com/example/tangdh/tdmusic/MusicActivity.java" timestamp="1520346004239">
         <mark key="[" line="24" column="47" />
@@ -428,6 +431,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/myoviolin/app/build.gradle" timestamp="1521951218288">
+        <mark key="[" line="20" column="14" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ServiceTest/app/src/main/res/layout/activity_main.xml" timestamp="1518839299249">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -468,6 +474,7 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/myo-android-sdk-0.10.0/samples/HelloWorld/build.gradle" timestamp="1521951040380" />
       <file name="$USER_HOME$/Temperature/app/src/main/java/com/example/tangdh/temperature/MainActivity.java" timestamp="1519909393032">
         <mark key="[" line="37" column="87" />
         <mark key="]" line="37" column="32" />
