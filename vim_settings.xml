@@ -198,8 +198,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/WebViewTest/app/src/main/java/com/example/tangdh/webviewtest/MainActivity.java" timestamp="1518660703540">
         <mark key="[" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/java/com/fly/tangdh/messagebox/LoginActivity.java" timestamp="1523971497183">
-        <mark key="[" line="42" column="93" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/java/com/fly/tangdh/messagebox/LoginActivity.java" timestamp="1523974499805">
+        <mark key="[" line="43" column="79" />
         <mark key="]" line="42" column="22" />
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="22" />
@@ -233,8 +233,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/values/colors.xml" timestamp="1523969526444">
         <mark key="[" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/java/com/fly/tangdh/messagebox/NavigationBar.java" timestamp="1523972638990">
-        <mark key="[" line="13" column="54" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/java/com/fly/tangdh/messagebox/NavigationBar.java" timestamp="1523975460862">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/layout/start_activity.xml" timestamp="1523975042121">
+        <mark key="[" line="11" column="39" />
       </file>
       <file name="$USER_HOME$/testapp/app/src/main/AndroidManifest.xml" timestamp="1519911771163">
         <mark key="[" line="11" column="33" />
@@ -344,9 +349,6 @@
       <file name="$USER_HOME$/RecyclerView/app/build.gradle" timestamp="1517493286695">
         <mark key="[" line="23" column="75" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/AndroidManifest.xml" timestamp="1523970914222">
-        <mark key="[" line="23" column="59" />
-      </file>
       <file name="$USER_HOME$/TDMusic/app/src/main/AndroidManifest.xml" timestamp="1520345242924">
         <mark key="[" line="18" column="60" />
       </file>
@@ -439,11 +441,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523968907498">
+      <file name="/Dummy.txt" timestamp="1523973677050">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/op.app.android/app/src/main/res/values/styles.xml" timestamp="1517034423593">
         <mark key="[" line="244" column="20" />
@@ -490,6 +492,12 @@
         <mark key="^" line="37" column="24" />
         <mark key="." line="37" column="24" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/java/com/fly/tangdh/messagebox/StartActivity.java" timestamp="1523975082143">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/op.app.android/build.gradle" timestamp="1516984035205">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="55" />
@@ -530,7 +538,7 @@
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1523970234202">
+      <file name="/fragment.java" timestamp="1523973699766">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -570,11 +578,11 @@
       <jump line="49" column="42" filename="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/layout/buttom_navigation_activity.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIK</text>
+      <register name="&quot;" type="4">
+        <text>InitActivity();</text>
       </register>
       <register name="-" type="4">
-        <text>android.support.constraint.ConstraintLayout</text>
+        <text>InitActivity();</text>
       </register>
       <register name="/" type="4">
         <text>tools</text>
