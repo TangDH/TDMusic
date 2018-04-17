@@ -64,8 +64,8 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/values/strings.xml" timestamp="1523885026638">
-        <mark key="[" line="14" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/values/strings.xml" timestamp="1523969077784">
+        <mark key="[" line="20" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ContactsTest/app/src/main/AndroidManifest.xml" timestamp="1518440995003">
         <mark key="[" line="3" column="0" />
@@ -171,7 +171,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/DatabaseTest/app/src/main/AndroidManifest.xml" timestamp="1518444675939">
         <mark key="[" line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/layout/login_activity.xml" timestamp="1523886427659">
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/layout/login_activity.xml" timestamp="1523969737091">
         <mark key="[" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/FragmentBestPractice/app/src/main/res/layout/news_content.xml" timestamp="1517928782472">
@@ -229,8 +229,8 @@
         <mark key="^" line="17" column="53" />
         <mark key="." line="17" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/values/colors.xml" timestamp="1523885218992">
-        <mark key="[" line="4" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/values/colors.xml" timestamp="1523969526444">
+        <mark key="[" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/testapp/app/src/main/AndroidManifest.xml" timestamp="1519911771163">
         <mark key="[" line="11" column="33" />
@@ -408,8 +408,8 @@
         <mark key="]" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/values/dimens.xml" timestamp="1523885255342">
-        <mark key="[" line="3" column="55" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/values/dimens.xml" timestamp="1523969824833">
+        <mark key="[" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ServiceTest/app/src/main/java/com/example/tangdh/servicetest/MyService.java" timestamp="1518840264176">
         <mark key="[" line="50" column="42" />
@@ -435,7 +435,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523884824416">
+      <file name="/Dummy.txt" timestamp="1523968907498">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -508,6 +508,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/layout/buttom_navigation_activity.xml" timestamp="1523969669978">
+        <mark key="'" line="61" column="42" />
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/remusic/app/src/main/java/com/wm/remusic/activity/LocalSearchActivity.java" timestamp="1519832485052">
         <mark key="[" line="45" column="31" />
       </file>
@@ -519,7 +526,7 @@
         <mark key="]" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1523887347378">
+      <file name="/fragment.java" timestamp="1523968887674">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -556,10 +563,11 @@
       <jump line="4" column="4" filename="$USER_HOME$/Temperature/app/src/main/res/layout/activity_main.xml" />
       <jump line="8" column="3" filename="$USER_HOME$/TDMusic/app/src/main/res/layout/activity_main.xml" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="49" column="42" filename="$USER_HOME$/AndroidStudioProjects/MessageBox/app/src/main/res/layout/buttom_navigation_activity.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCgiU3VjY2VzcyIpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIK</text>
       </register>
       <register name="-" type="4">
         <text>android.support.constraint.ConstraintLayout</text>
@@ -567,8 +575,8 @@
       <register name="/" type="4">
         <text>tools</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCJpZDoiK2lkKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCgiU3VjY2VzcyIpLnNob3coKTsK</text>
